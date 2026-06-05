@@ -28,7 +28,6 @@ The challenge is to find the correct sequence of operations before the moves rea
   <img src="codelockimages\WhatsApp Image 2026-06-05 at 20.29.20 (1).jpeg" alt="Loss Screen" width="220"/>
 </p>
 
-GitHub README files support Markdown images, and HTML image tags can be used when you want more control over layout or width.[web:1][web:19]
 
 ## Built With
 
