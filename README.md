@@ -22,10 +22,10 @@ The challenge is to find the correct sequence of operations before the moves rea
 ## Screenshots
 
 <p align="center">
-  <img src=""codelockimages\WhatsApp Image 2026-06-05 at 20.29.19.jpeg"" alt="Start Window" width="220"/>
-  <img src=""codelockimages\WhatsApp Image 2026-06-05 at 20.29.19 (1).jpeg"" alt="Code Lock Start Screen" width="220"/>
-  <img src=""codelockimages\WhatsApp Image 2026-06-05 at 20.29.20.jpeg"" alt="Win Screen" width="220"/>
-  <img src=""codelockimages\WhatsApp Image 2026-06-05 at 20.29.20 (1).jpeg"" alt="Loss Screen" width="220"/>
+  <img src="codelockimages\WhatsApp Image 2026-06-05 at 20.29.19.jpeg" alt="Start Window" width="220"/>
+  <img src="codelockimages\WhatsApp Image 2026-06-05 at 20.29.19 (1).jpeg" alt="Code Lock Start Screen" width="220"/>
+  <img src="codelockimages\WhatsApp Image 2026-06-05 at 20.29.20.jpeg" alt="Win Screen" width="220"/>
+  <img src="codelockimages\WhatsApp Image 2026-06-05 at 20.29.20 (1).jpeg" alt="Loss Screen" width="220"/>
 </p>
 
 GitHub README files support Markdown images, and HTML image tags can be used when you want more control over layout or width.[web:1][web:19]
